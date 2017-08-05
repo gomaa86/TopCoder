@@ -1,0 +1,5 @@
+C:\Code\Lab\Aamazon\Amazon\Algorithms\obj\Debug\Algorithms.csprojResolveAssemblyReference.cache
+C:\Code\Lab\Aamazon\Amazon\Algorithms\bin\Debug\Algorithms.dll
+C:\Code\Lab\Aamazon\Amazon\Algorithms\bin\Debug\Algorithms.pdb
+C:\Code\Lab\Aamazon\Amazon\Algorithms\obj\Debug\Algorithms.dll
+C:\Code\Lab\Aamazon\Amazon\Algorithms\obj\Debug\Algorithms.pdb

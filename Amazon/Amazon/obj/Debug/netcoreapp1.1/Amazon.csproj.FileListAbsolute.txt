@@ -1,0 +1,7 @@
+C:\Code\Lab\Aamazon\Amazon\Amazon\bin\Debug\netcoreapp1.1\Amazon.deps.json
+C:\Code\Lab\Aamazon\Amazon\Amazon\bin\Debug\netcoreapp1.1\Amazon.dll
+C:\Code\Lab\Aamazon\Amazon\Amazon\bin\Debug\netcoreapp1.1\Amazon.pdb
+C:\Code\Lab\Aamazon\Amazon\Amazon\obj\Debug\netcoreapp1.1\Amazon.csprojResolveAssemblyReference.cache
+C:\Code\Lab\Aamazon\Amazon\Amazon\obj\Debug\netcoreapp1.1\Amazon.AssemblyInfo.cs
+C:\Code\Lab\Aamazon\Amazon\Amazon\obj\Debug\netcoreapp1.1\Amazon.dll
+C:\Code\Lab\Aamazon\Amazon\Amazon\obj\Debug\netcoreapp1.1\Amazon.pdb

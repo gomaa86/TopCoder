@@ -1,0 +1,43 @@
+﻿using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Algorithms
+{
+    class Divisors
+    {
+        public static List<int> factorization(int n)
+        {
+            List<int> divisors = new List<int>();
+
+            for (int i = 1; i * i < n; i++)
+            {
+                while (n % i == 0)
+                {
+                    divisors.Add(i);
+                    n /= i;
+                }
+            }
+
+            if (n > 1) divisors.Add(n);
+
+            return divisors;
+        }
+
+        public int FactN_PrimePowr(int n, int p)
+        {
+            int pow = 0;
+            for (int i = p; i <= n; i *= p)
+            {
+                pow += n / i;
+            }
+
+            return pow;
+        }
+
+
+
+    }
+}
