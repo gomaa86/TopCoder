@@ -6,3 +6,11 @@ C:\Code\Lab\Aamazon\Amazon\main\bin\Debug\Algorithms.pdb
 C:\Code\Lab\Aamazon\Amazon\main\obj\Debug\main.csprojResolveAssemblyReference.cache
 C:\Code\Lab\Aamazon\Amazon\main\obj\Debug\main.exe
 C:\Code\Lab\Aamazon\Amazon\main\obj\Debug\main.pdb
+C:\Code\GH\TopCoder\Amazon\main\bin\Debug\main.exe.config
+C:\Code\GH\TopCoder\Amazon\main\bin\Debug\main.exe
+C:\Code\GH\TopCoder\Amazon\main\bin\Debug\main.pdb
+C:\Code\GH\TopCoder\Amazon\main\bin\Debug\Algorithms.dll
+C:\Code\GH\TopCoder\Amazon\main\bin\Debug\Algorithms.pdb
+C:\Code\GH\TopCoder\Amazon\main\obj\Debug\main.csprojResolveAssemblyReference.cache
+C:\Code\GH\TopCoder\Amazon\main\obj\Debug\main.exe
+C:\Code\GH\TopCoder\Amazon\main\obj\Debug\main.pdb

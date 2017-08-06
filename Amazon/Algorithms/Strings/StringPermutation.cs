@@ -19,18 +19,20 @@ namespace Algorithms
             }
         }
 
-        public void permuteString(string pat)
+        public List<string> permuteString(string pat)
         {
             if (!string.IsNullOrEmpty(pat))
             {
                 characters = pat.ToCharArray();
                 permute(0, 0, pat.Length - 1);
-                foreach (var item in Patterns)
-                {
-                    Console.WriteLine(item);
-                }
+                //foreach (var item in Patterns)
+                //{
+                //    Console.WriteLine(item);
+                //}
+                return Patterns;
             }
 
+            return null;
 
         }
 

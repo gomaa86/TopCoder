@@ -102,7 +102,7 @@ namespace Algorithms
             return Tuple.Create(diam, mxHeights[2]);
         }
 
-
+        //using it to compare between two trees 
         public string treeCanoincalForm(int i, int par)
         {
             List<string> childern = new List<string>();
